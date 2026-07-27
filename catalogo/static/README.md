@@ -41,4 +41,4 @@ http://localhost:8000
 
 ## Quadro Kanban
 
-![Quadro kanban] (img/kanban.png)
+(Adicionar aqui o print do GitHub Projects)
