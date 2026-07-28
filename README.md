@@ -43,4 +43,4 @@ http://localhost:8000
 
 ## Quadro Kanban
 
-![Quadro Kanban](img/kanban.png)
+![Quadro Kanban](catalogo/static/img/kanban.png)
