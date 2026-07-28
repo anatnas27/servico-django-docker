@@ -1,6 +1,6 @@
 # Serviço Django Docker
 
-Projeto desenvolvido utilizando Django, Docker e Docker Compose como parte de uma atividade prática da disciplina de DevOps. O objetivo é demonstrar a criação de um serviço web simples, sua containerização e execução utilizando Docker Compose. "Catalogo de Filmes"
+Projeto desenvolvido utilizando Django, Docker e Docker Compose como parte de uma atividade prática da disciplina de DevOps. O objetivo é demonstrar a criação de um serviço web simples, sua containerização e execução utilizando Docker Compose. Sob: Catalogo de Filmes.
 
 ## Pré-requisitos
 
