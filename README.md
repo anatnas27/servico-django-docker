@@ -1,6 +1,6 @@
 # Serviço Django Docker
 
-Projeto desenvolvido utilizando Django e Docker como atividade da disciplina.
+Projeto desenvolvido utilizando Django, Docker e Docker Compose como parte de uma atividade prática da disciplina de DevOps. O objetivo é demonstrar a criação de um serviço web simples, sua containerização e execução utilizando Docker Compose. "Catalogo de Filmes"
 
 ## Pré-requisitos
 
@@ -12,7 +12,7 @@ Projeto desenvolvido utilizando Django e Docker como atividade da disciplina.
 Clone o repositório:
 
 ```bash
-git clone <LINK_DO_REPOSITORIO>
+git clone https://github.com/anatnas27/servico-django-docker.git
 ```
 
 Entre na pasta do projeto:
@@ -29,7 +29,9 @@ docker compose up --build
 
 A aplicação ficará disponível em:
 
+```
 http://localhost:8000
+```
 
 ## Tecnologias utilizadas
 
@@ -41,4 +43,4 @@ http://localhost:8000
 
 ## Quadro Kanban
 
-![Quadro kanban] (img/kanban.png)
+![Quadro Kanban](img/kanban.png)
